@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/tv_temperatura"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Temperatura: 22.5"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/tv_humedad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Humedad: 55%"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/tv_pm2_5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PM2.5: 10"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/tv_pm10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PM10: 20"
+        android:textSize="16sp"/>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorTemperatura">#FF6347</color> <!-- Color para Temperatura -->
+    <color name="colorHumedad">#4682B4</color> <!-- Color para Humedad -->
+    <color name="colorPM25">#32CD32</color> <!-- Color para PM 2.5 -->
+    <color name="colorPM10">#FFD700</color> <!-- Color para PM 10 -->
+</resources>
+
